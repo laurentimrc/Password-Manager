@@ -7,6 +7,8 @@
 - Email **verification**
 - Master password is **Hashed**
 - User passwords are **encrypted**
+- Sharing passwords (soon)
+- Manage other type of data (pKeys)
 
 ## _Tech_
 
