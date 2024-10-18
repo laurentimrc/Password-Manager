@@ -7,6 +7,7 @@
 - Email **verification**
 - Master password is **Hashed**
 - User passwords are **encrypted**
+- Scrypt Terminale
 - Sharing passwords (soon)
 - Manage other type of data (pKeys)
 
